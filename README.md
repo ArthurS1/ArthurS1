@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Readme coming soon(tm).
+I am Arthur Soulié, 3rd year student at EPITECH Paris !
 
-<!--
-**ArthurS1/ArthurS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+📬 arthur1.soulie@epitech.eu   
+💻 [Linkedin](https://www.linkedin.com/in/arthur-souli%C3%A9-080820197/)
