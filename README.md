@@ -2,7 +2,7 @@
 
 I am Arthur Soulié, 5th year student at EPITECH Paris !
 
-📬 arthur1.soulie@epitech.eu   
+📬 arthur.soulie@icloud.com   
 
 ☕ [My blog](https://arthur.soulie.space)
 
